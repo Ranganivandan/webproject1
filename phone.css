@@ -1,0 +1,30 @@
+.services-cont{
+    flex-direction: column;
+    
+}
+.clients{
+    overflow: hidden;
+}
+.navbar{
+    flex-direction: column;
+
+}
+
+.b{
+    text-align: center;
+  
+}
+.a{
+    top: 900px;
+}
+.c1 {
+   width: 70px;
+   padding: 10px;
+}
+.clients{
+    flex-wrap: wrap;
+   
+}
+.image{
+    justify-content: center;
+}
